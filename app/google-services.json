@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378691211537",
+    "project_id": "notasapp-29dbd",
+    "storage_bucket": "notasapp-29dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378691211537:android:7ae88f5a869c86c084fcb0",
+        "android_client_info": {
+          "package_name": "com.example.notasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378691211537-6ted4trnl46uckp4metdrpru7ejrsa5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notasapp",
+            "certificate_hash": "34cfef7f5f6b4e52f6aec7faaf57e7375fe09ac6"
+          }
+        },
+        {
+          "client_id": "378691211537-8ltusgeklda0841p4dlakgbqmtjadtbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWB3_hHMwOb6dRbxuJqYaXD0mcKwWfu_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378691211537-8ltusgeklda0841p4dlakgbqmtjadtbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
